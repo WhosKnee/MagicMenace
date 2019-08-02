@@ -31,8 +31,8 @@ HEX5 and HEX4 will show the score from the last game run (so it will show 00 whe
 
 Game State:
 
-The game state is triggered by KEY[2] and the game runs in 60 seconds when SW[18] is low (easy mode) and 
-in 30 seconds when SW[18] is high (hard mode).  In either mode, the HEX7 and HEX6 show the two digit time 
+The game state is triggered by KEY[2] and the game runs in 60 seconds when SW[17] is low (easy mode) and 
+in 30 seconds when SW[17] is high (hard mode).  In either mode, the HEX7 and HEX6 show the two digit time 
 decreasing from 60, so when hard mode is on, 60 decreases twice as fast from 60 to 0 than in easy mode.
 Once the game ends, the user is in the same state as before the game (the pre-game state is the same state 
 as the end-game state)
