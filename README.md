@@ -21,7 +21,7 @@ using SW[3:0], they can press KEY[3] to load the value into whichever SW[10:7] a
 memory unit of 4 addresses where each address stores a 4 bit wide binary value and SW[10] points to 
 the first, SW[9] points to the second, ... , and SW[7] points to the forth). Along with this the letter
 values stored in the four addresses are shown on HEX3 (first value), HEX2, HEX1, and HEX0 (last value). 
-(View Board Mapping image for the visual mapping). When the board starts the four HEX's should show A B C D
+When the board starts the four HEX's should show A B C D
 
 Before the Game Starts and after the game ends, HEX7 and HEX6 will show the two digit number 60.
 
