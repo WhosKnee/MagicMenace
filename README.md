@@ -46,5 +46,7 @@ If the user needs to pause the game during the game state, they can hold down th
 (due to a debounce module)
 
 References:
--VGA Reference: https://github.com/Derek-X-Wang/VGA-Text-Generator?files=1
--LFSR Reference: https://vlsicoding.blogspot.com/2014/07/verilog-code-for-4-bit-linear-feedback-shift-register.html
+
+VGA Reference: https://github.com/Derek-X-Wang/VGA-Text-Generator?files=1
+
+FSR Reference: https://vlsicoding.blogspot.com/2014/07/verilog-code-for-4-bit-linear-feedback-shift-register.html
