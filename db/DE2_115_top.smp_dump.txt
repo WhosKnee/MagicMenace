@@ -1,0 +1,11 @@
+
+State Machine - |DE2_115_top|state
+Name state.CHECK_ANSWER state.DEBOUNCE2 state.RANDOM_LETTERS state.VGA_HELLO state.DEBOUNCE state.GAME state.PREGAME state.INITIAL 
+state.INITIAL 0 0 0 0 0 0 0 0 
+state.PREGAME 0 0 0 0 0 0 1 1 
+state.GAME 0 0 0 0 0 1 0 1 
+state.DEBOUNCE 0 0 0 0 1 0 0 1 
+state.VGA_HELLO 0 0 0 1 0 0 0 1 
+state.RANDOM_LETTERS 0 0 1 0 0 0 0 1 
+state.DEBOUNCE2 0 1 0 0 0 0 0 1 
+state.CHECK_ANSWER 1 0 0 0 0 0 0 1 
