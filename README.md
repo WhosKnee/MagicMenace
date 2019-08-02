@@ -1,8 +1,7 @@
 # MagicMenace
-Final Project for CSCB58: Magic Menace
+Final Project for CSCB58 Summer 2019
 
-
-" Magic Menace! "
+Magic Menace!
 
 By: Husni Fareed, Mustafa Hafeez, and Azim Hirjani
 
