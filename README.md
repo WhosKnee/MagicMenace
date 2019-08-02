@@ -3,6 +3,7 @@ Final Project for CSCB58: Magic Menace
 
 
 " Magic Menace! "
+
 By: Husni Fareed, Mustafa Hafeez, and Azim Hirjani
 
 Video Demonstration:
